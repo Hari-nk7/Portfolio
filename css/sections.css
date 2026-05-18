@@ -275,8 +275,8 @@
 }
 
 .about__graphic-pattern {
-  opacity: 0.15;
-  color: var(--text-tertiary);
+  opacity: 0.35;
+  color: var(--accent);
 }
 
 @media (max-width: 768px) {
